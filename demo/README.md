@@ -10,20 +10,20 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 
 |目錄名稱|對應範例名稱|
 |-------|------------|
-|[s-eq-dem-2001_serialportprinter](s-eq-dem-2001_serialportprinter/)|通訊埠印表機|
-|[s-eq-dem-2002_serialportsscale](s-eq-dem-2002_serialportsscale/)|通訊埠電子秤|
-|[s-eq-dem-2003_serialportdht](s-eq-dem-2003_serialportdht/)|通訊埠讀取溫濕度|
-|[s-eq-dem-2004_serialportled](s-eq-dem-2004_serialportled/)|通訊埠控制 LED 燈|
-|[s-eq-dem-2005_rs485counter](s-eq-dem-2005_rs485counter/)|RS485 計數器|
-|[s-eq-dem-2006_modbustcpcontrol](s-eq-dem-2006_modbustcpcontrol/)|ModbusTCP 控制元件使用|
-|[s-eq-dem-2007_modbustcpled](s-eq-dem-2007_modbustcpled/)|ModbusTCP 控制 LED 燈|
-|[s-eq-dem-2008_modbustcpdht](s-eq-dem-2008_modbustcpdht/)| ModbusTCP 讀取溫濕度|
-|s-eq-dem-2009_modbusrtucontrol| ModbusRTU 控制元件使用|
-|s-eq-dem-2010_modbusrtuled| ModbusRTU 控制 LED 燈|
-|s-eq-dem-2011_modbusrtudht|ModbusRTU 讀取溫濕度|
-|s-eq-dem-2012_wifiled|WiFi 控制 LED 燈|
-|s-eq-dem-2013_mqttclient| MQTT 控制元件使用|
-|s-eq-dem-2014_mqttled|MQTT 控制 LED 燈|
+|[s-eq-dem-2001_serialportprinter](iot/s-eq-dem-2001_serialportprinter/)|通訊埠印表機|
+|[s-eq-dem-2002_serialportsscale](iot/s-eq-dem-2002_serialportsscale/)|通訊埠電子秤|
+|[s-eq-dem-2003_serialportdht](iot/s-eq-dem-2003_serialportdht/)|通訊埠讀取溫濕度|
+|[s-eq-dem-2004_serialportled](iot/s-eq-dem-2004_serialportled/)|通訊埠控制 LED 燈|
+|[s-eq-dem-2005_rs485counter](iot/s-eq-dem-2005_rs485counter/)|RS485 計數器|
+|[s-eq-dem-2006_modbustcpcontrol](iot/s-eq-dem-2006_modbustcpcontrol/)|ModbusTCP 控制元件使用|
+|[s-eq-dem-2007_modbustcpled](iot/s-eq-dem-2007_modbustcpled/)|ModbusTCP 控制 LED 燈|
+|[s-eq-dem-2008_modbustcpdht](iot/s-eq-dem-2008_modbustcpdht/)| ModbusTCP 讀取溫濕度|
+|[s-eq-dem-2009_modbusrtucontrol](iot/s-eq-dem-2009_modbusrtucontrol/)| ModbusRTU 控制元件使用|
+|[s-eq-dem-2010_modbusrtuled](iot/s-eq-dem-2010_modbusrtuled/)| ModbusRTU 控制 LED 燈|
+|[s-eq-dem-2011_modbusrtudht](iot/s-eq-dem-2011_modbusrtudht/)|ModbusRTU 讀取溫濕度|
+|[s-eq-dem-2012_wifiled](iot/s-eq-dem-2012_wifiled/)|WiFi 控制 LED 燈|
+|[s-eq-dem-2013_mqttclient](iot/s-eq-dem-2013_mqttclient/)| MQTT 控制元件使用|
+|[s-eq-dem-2014_mqttled](iot/s-eq-dem-2014_mqttled/)|MQTT 控制 LED 燈|
 |s-eq-dem-2015_mqttdht| MQTT 讀取溫濕度|
 |s-eq-dem-2016_opcdaled| OPCDA 控制 LED 燈|
 |s-eq-dem-2017_opcdadht| OPCDA 讀取溫濕度|
