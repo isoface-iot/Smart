@@ -8,6 +8,8 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 
 範例目錄的說明如下：
 
+## 物聯網
+
 |目錄名稱|對應範例名稱|
 |-------|------------|
 |[s-eq-dem-2001_serialportprinter](iot/s-eq-dem-2001_serialportprinter/)|通訊埠印表機|
@@ -24,12 +26,19 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 |[s-eq-dem-2012_wifiled](iot/s-eq-dem-2012_wifiled/)|WiFi 控制 LED 燈|
 |[s-eq-dem-2013_mqttclient](iot/s-eq-dem-2013_mqttclient/)| MQTT 控制元件使用|
 |[s-eq-dem-2014_mqttled](iot/s-eq-dem-2014_mqttled/)|MQTT 控制 LED 燈|
-|s-eq-dem-2015_mqttdht| MQTT 讀取溫濕度|
-|s-eq-dem-2016_opcdaled| OPCDA 控制 LED 燈|
-|s-eq-dem-2017_opcdadht| OPCDA 讀取溫濕度|
-|s-eq-dem-2018_bluetoothscale| 藍芽電子秤|
-|s-eq-dem-2019_bluetoothled|藍芽控制 LED 燈|
-|s-eq-dem-2020_bluetoothdht| 藍芽讀取溫濕度|
+|[s-eq-dem-2015_mqttdht](iot/s-eq-dem-2015_mqttdht/)| MQTT 讀取溫濕度|
+|[s-eq-dem-2016_opcdaled](iot/s-eq-dem-2016_opcdaled/)| OPCDA 控制 LED 燈|
+|[s-eq-dem-2017_opcdadht](iot/s-eq-dem-2017_opcdadht/)| OPCDA 讀取溫濕度|
+|[s-eq-dem-2018_bluetoothscale](iot/s-eq-dem-2018_bluetoothscale/)| 藍芽電子秤|
+|[s-eq-dem-2019_bluetoothled](iot/s-eq-dem-2019_bluetoothled/)|藍芽控制 LED 燈|
+|[s-eq-dem-2020_bluetoothdht](iot/s-eq-dem-2020_bluetoothdht/)| 藍芽讀取溫濕度|
+|[s-eq-dem-2043_restapiled](iot/s-eq-dem-2043_restapiled/)|RestAPI 控制 LED 燈|
+|[s-eq-dem-2044_restapidht](iot/s-eq-dem-2044_restapidht/)|RestAPI 讀取溫濕度|
+|[s-eq-dem-2048_dlt645meter](iot/s-eq-dem-2048_dlt645meter/)|智慧電錶採集|
+|[s-eq-dem-2049_dhtcontrol](iot/s-eq-dem-2049_dhtcontrol/)|溫濕度採集與控制|
+
+|目錄名稱|對應範例名稱|
+|-------|------------|
 |s-eq-dem-2021_onlinedocument| 網路文件瀏覽|
 |s-eq-dem-2022_videoplayer|視訊播放|
 |s-eq-dem-2023_chartdemo|圖表展示|
@@ -46,15 +55,12 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 |s-eq-dem-2038_videorecoder|視訊錄影|
 |s-eq-dem-2039_livepush|視訊推流|
 |s-eq-dem-2041_ttsplayer|語音播報|
-|s-eq-dem-2043_restapiled|RestAPI 控制 LED 燈|
-|s-eq-dem-2044_restapidht|RestAPI 讀取溫濕度|
 |s-eq-dem-2045_restapi| TARS RestAPI 應用|
 |s-eq-dem-2046_vncview| 遠端桌面控制伺服器、遠端桌面控制客戶端|
-|s-eq-dem-2048_dlt645meter|智慧電錶採集|
-|s-eq-dem-2049_dhtcontrol|溫濕度採集與控制|
 |s-eq-dem-2051_svgscada| SVG 組態|
 |s-eq-dem-2052_email|郵件發送|
 |s-eq-dem-2053_chatroom|網路聊天室|
+
 
 ## 注意事項：
 1. Smart智慧控制開發工具採用 Pascal 程序語言，開發物聯網相關運用。

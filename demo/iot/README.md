@@ -24,16 +24,16 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 |[s-eq-dem-2012_wifiled](s-eq-dem-2012_wifiled/)|WiFi 控制 LED 燈|
 |[s-eq-dem-2013_mqttclient](s-eq-dem-2013_mqttclient/)| MQTT 控制元件使用|
 |[s-eq-dem-2014_mqttled](s-eq-dem-2014_mqttled/)|MQTT 控制 LED 燈|
-|s-eq-dem-2015_mqttdht| MQTT 讀取溫濕度|
-|s-eq-dem-2016_opcdaled| OPCDA 控制 LED 燈|
-|s-eq-dem-2017_opcdadht| OPCDA 讀取溫濕度|
-|s-eq-dem-2018_bluetoothscale| 藍芽電子秤|
-|s-eq-dem-2019_bluetoothled|藍芽控制 LED 燈|
-|s-eq-dem-2020_bluetoothdht| 藍芽讀取溫濕度|
-|s-eq-dem-2043_restapiled|RestAPI 控制 LED 燈|
-|s-eq-dem-2044_restapidht|RestAPI 讀取溫濕度|
-|s-eq-dem-2048_dlt645meter|智慧電錶採集|
-|s-eq-dem-2049_dhtcontrol|溫濕度採集與控制|
+|[s-eq-dem-2015_mqttdht](s-eq-dem-2015_mqttdht/)| MQTT 讀取溫濕度|
+|[s-eq-dem-2016_opcdaled](s-eq-dem-2016_opcdaled/)| OPCDA 控制 LED 燈|
+|[s-eq-dem-2017_opcdadht](s-eq-dem-2017_opcdadht/)| OPCDA 讀取溫濕度|
+|[s-eq-dem-2018_bluetoothscale](s-eq-dem-2018_bluetoothscale/)| 藍芽電子秤|
+|[s-eq-dem-2019_bluetoothled](s-eq-dem-2019_bluetoothled/)|藍芽控制 LED 燈|
+|[s-eq-dem-2020_bluetoothdht](s-eq-dem-2020_bluetoothdht/)| 藍芽讀取溫濕度|
+|[s-eq-dem-2043_restapiled](s-eq-dem-2043_restapiled/)|RestAPI 控制 LED 燈|
+|[s-eq-dem-2044_restapidht](s-eq-dem-2044_restapidht/)|RestAPI 讀取溫濕度|
+|[s-eq-dem-2048_dlt645meter](s-eq-dem-2048_dlt645meter/)|智慧電錶採集|
+|[s-eq-dem-2049_dhtcontrol](s-eq-dem-2049_dhtcontrol/)|溫濕度採集與控制|
 
 ## 注意事項：
 1. Smart智慧控制開發工具採用 Pascal 程序語言，開發物聯網相關運用。
