@@ -37,29 +37,36 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 |[s-eq-dem-2048_dlt645meter](iot/s-eq-dem-2048_dlt645meter/)|智慧電錶採集|
 |[s-eq-dem-2049_dhtcontrol](iot/s-eq-dem-2049_dhtcontrol/)|溫濕度採集與控制|
 
+## 媒體
+
 |目錄名稱|對應範例名稱|
 |-------|------------|
-|s-eq-dem-2021_onlinedocument| 網路文件瀏覽|
-|s-eq-dem-2022_videoplayer|視訊播放|
-|s-eq-dem-2023_chartdemo|圖表展示|
+|[s-eq-dem-2021_onlinedocument](media/s-eq-dem-2021_onlinedocument/)| 網路文件瀏覽|
+|[s-eq-dem-2022_videoplayer](media/s-eq-dem-2022_videoplayer)|視訊播放|
+|[s-eq-dem-2023_chartdemo](media/s-eq-dem-2023_chartdemo/)|圖表展示|
+|[s-eq-dem-2031_formtransfer](media/s-eq-dem-2031_formtransfer/)| 窗體相互傳值|
+|[s-eq-dem-2032_qrscan](media/s-eq-dem-2032_qrscan/)|二維碼掃瞄與二維碼產生|
+|[s-eq-dem-2034_ocr](meida/s-eq-dem-2034_ocr/)|OCR 識別|
+|[s-eq-dem-2036_networkcamera](media/s-eq-dem-2036_networkcamera/)|網路攝像機伺服器、網路攝像機客戶端|
+|[s-eq-dem-2038_videorecoder](media/s-eq-dem-2038_videorecoder/)|視訊錄影|
+|[s-eq-dem-2039_livepush](media/s-eq-dem-2039_livepush/)|視訊推流|
+|[s-eq-dem-2040_handwriting](media/s-eq-dem-2040_handwriting/)|智慧手寫板|
+|[s-eq-dem-2046_vncview](media/s-eq-dem-2046_vncview/)| 遠端桌面控制伺服器、遠端桌面控制客戶端|
+|[s-eq-dem-2052_email](media/s-eq-dem-2052_email/)|郵件發送|
+|[s-eq-dem-2053_chatroom](media/s-eq-dem-2053_chatroom/)|網路聊天室|
+
+
+
 |s-eq-dem-2024_reportdesign|報表設計|
 |s-eq-dem-2025_charts|ECharts 圖表展示|
 |s-eq-dem-2026_tars|TARS 數據存取|
 |s-eq-dem-2027_flying|Flying 網路列印|
 |s-eq-dem-2028_smssender| 簡訊發送|
 |s-eq-dem-2030_http|自定 HTTP Server 伺服器、自定 HTTP Client 客戶端|
-|s-eq-dem-2031_formtransfer| 窗體相互傳值|
-|s-eq-dem-2032_qrscan|二維碼掃瞄與二維碼產生|
-|s-eq-dem-2034_ocr|OCR 識別|
-|s-eq-dem-2036_networkcamera|網路攝像機伺服器、網路攝像機客戶端|
-|s-eq-dem-2038_videorecoder|視訊錄影|
-|s-eq-dem-2039_livepush|視訊推流|
+|s-eq-dem-2051_svgscada| SVG 組態|
 |s-eq-dem-2041_ttsplayer|語音播報|
 |s-eq-dem-2045_restapi| TARS RestAPI 應用|
-|s-eq-dem-2046_vncview| 遠端桌面控制伺服器、遠端桌面控制客戶端|
-|s-eq-dem-2051_svgscada| SVG 組態|
-|s-eq-dem-2052_email|郵件發送|
-|s-eq-dem-2053_chatroom|網路聊天室|
+
 
 
 ## 注意事項：
