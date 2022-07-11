@@ -43,7 +43,6 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 |-------|------------|
 |[s-eq-dem-2021_onlinedocument](media/s-eq-dem-2021_onlinedocument/)| 網路文件瀏覽|
 |[s-eq-dem-2022_videoplayer](media/s-eq-dem-2022_videoplayer)|視訊播放|
-|[s-eq-dem-2023_chartdemo](media/s-eq-dem-2023_chartdemo/)|圖表展示|
 |[s-eq-dem-2031_formtransfer](media/s-eq-dem-2031_formtransfer/)| 窗體相互傳值|
 |[s-eq-dem-2032_qrscan](media/s-eq-dem-2032_qrscan/)|二維碼掃瞄與二維碼產生|
 |[s-eq-dem-2034_ocr](meida/s-eq-dem-2034_ocr/)|OCR 識別|
@@ -61,10 +60,17 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 |-------|------------|
 |[s-eq-dem-2041_ttsplayer](ai/s-eq-dem-2041_ttsplayer/)|語音播報|
 
+## 圖表
+
+|目錄名稱|對應範例名稱|
+|-------|------------|
+|[s-eq-dem-2023_chartdemo](chart/s-eq-dem-2023_chartdemo/)|圖表展示|
+|[s-eq-dem-2025_charts](chart/s-eq-dem-2025_charts/)|ECharts 圖表展示|
+
+
 |目錄名稱|對應範例名稱|
 |-------|------------|
 |s-eq-dem-2024_reportdesign|報表設計|
-|s-eq-dem-2025_charts|ECharts 圖表展示|
 |s-eq-dem-2026_tars|TARS 數據存取|
 |s-eq-dem-2027_flying|Flying 網路列印|
 |s-eq-dem-2028_smssender| 簡訊發送|
