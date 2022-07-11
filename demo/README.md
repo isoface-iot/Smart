@@ -68,15 +68,21 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 |[s-eq-dem-2025_charts](chart/s-eq-dem-2025_charts/)|ECharts 圖表展示|
 
 
+## 資料庫
+
+|目錄名稱|對應範例名稱|
+|-------|------------|
+|[s-eq-dem-2026_tars](database/s-eq-dem-2026_tars/)|TARS 數據存取|
+|[s-eq-dem-2030_http](database/s-eq-dem-2030_http/)|自定 HTTP Server 伺服器、自定 HTTP Client 客戶端|
+|[s-eq-dem-2045_restapi](database/s-eq-dem-2045_restapi/)| TARS RestAPI 應用|
+
+
 |目錄名稱|對應範例名稱|
 |-------|------------|
 |s-eq-dem-2024_reportdesign|報表設計|
-|s-eq-dem-2026_tars|TARS 數據存取|
 |s-eq-dem-2027_flying|Flying 網路列印|
 |s-eq-dem-2028_smssender| 簡訊發送|
-|s-eq-dem-2030_http|自定 HTTP Server 伺服器、自定 HTTP Client 客戶端|
 |s-eq-dem-2051_svgscada| SVG 組態|
-|s-eq-dem-2045_restapi| TARS RestAPI 應用|
 
 
 
