@@ -9,8 +9,6 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 範例使用 MQTT 通訊協議，將 RFID 刷卡獲取到的資訊通過 MQTT 傳輸至 Smart 界面，根據刷卡的資訊顯示對應的結果。
 
 * **產品**：https://isoface.net/isoface/production/software/smart
-* **範例手冊**：正在更新中。
-* **範例視訊**：正在更新中。
 * **產品說明**：https://isoface.net/isoface/doc/smart/main/
 * **網址**：https://isoface.net/
 
