@@ -8,6 +8,19 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 
 範例使用 MQTT 通訊協議，將 RFID 刷卡獲取到的資訊通過 MQTT 傳輸至 Smart 界面，根據刷卡的資訊顯示對應的結果。
 
+使用的主要零件清單：
+
+|序號|零件名稱|數量|
+|---|---|---|
+|1|NodeMCU ESP8266 開發板|1|
+|2|繼電器|2|
+|3|RFID-RC522 模組|1|
+|4|I2C LCD1602 液晶顯示屏|1|
+|5| LED 發光二極管|紅色、綠色各 1 個，共計 2 個|
+|6| 220Ω 電阻 |2|
+
+外觀結構零件需通過3D列印獲取，可從示例中檢視工程檔案 `3D_stl` 並列印相關零件。
+
 * **產品**：https://isoface.net/isoface/production/software/smart
 * **產品說明**：https://isoface.net/isoface/doc/smart/main/
 * **網址**：https://isoface.net/

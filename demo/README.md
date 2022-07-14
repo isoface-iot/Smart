@@ -37,6 +37,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 |[s-eq-dem-2048_dlt645meter](iot/s-eq-dem-2048_dlt645meter/)|智慧電錶採集|
 |[s-eq-dem-2049_dhtcontrol](iot/s-eq-dem-2049_dhtcontrol/)|溫濕度採集與控制|
 |[s-eq-dem-2054_rfid_mqtt_relay](iot/s-eq-dem-2054_rfid_mqtt_relay/)|RFID刷卡裝置|
+|[s-eq-dem-2055_translation_robotic_arm](iot/s-eq-dem-2055_translation_robotic_arm/)|機械臂|
 
 ## 媒體
 
