@@ -24,7 +24,7 @@ Factory IO是一款出色的虛擬模擬軟體，可以自由使用其內部的�
 
 返回驅動界面，界面中暫存器分配設定如下：
 
-![](images/83454216245270.png)
+![](images/493575214247302.png)
 
 打開OpenPLC管理後臺界面，選擇 `Slave Devices`，在列表界面中點選 `Add new device`，建立的裝置根據 Factory IO 中的驅動地址進行修改。
 
