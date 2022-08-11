@@ -36,8 +36,10 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 |[s-eq-dem-2044_restapidht](iot/s-eq-dem-2044_restapidht/)|RestAPI 讀取溫濕度|
 |[s-eq-dem-2048_dlt645meter](iot/s-eq-dem-2048_dlt645meter/)|智慧電錶採集|
 |[s-eq-dem-2049_dhtcontrol](iot/s-eq-dem-2049_dhtcontrol/)|溫濕度採集與控制|
-|[s-eq-dem-2054_rfid_mqtt_relay](iot/s-eq-dem-2054_rfid_mqtt_relay/)|RFID刷卡裝置|
-|[s-eq-dem-2055_translation_robotic_arm](iot/s-eq-dem-2055_translation_robotic_arm/)|機械臂|
+|[s-eq-dem-2201_translation_robotic_arm](iot/s-eq-dem-2201_translation_robotic_arm/)|機械臂|
+|[s-eq-dem-2202_esp32cam_slider](iot/s-eq-dem-2202_esp32cam_slider/)|ESP32CAM軌道照相機|
+|[s-eq-dem-2203_esp32_slider](iot/s-eq-dem-2203_esp32_slider/)|ESP32軌道照相機|
+|[s-eq-dem-2209_rfid_mqtt_relay](iot/s-eq-dem-2209_rfid_mqtt_relay/)|RFID刷卡裝置|
 
 ## 媒體
 
@@ -97,6 +99,9 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 |目錄名稱|對應範例名稱|
 |-------|------------|
 |[s-eq-dem-2051_svgscada](scada/s-eq-dem-2051_svgscada/)| SVG 組態|
+|[s-eq-dem-2204_filltank_openplc](scada/s-eq-dem-2204_filltank_openplc/)|液化水槽監控(OpenPLC)|
+|[s-eq-dem-2205_filltank_smart](scada/s-eq-dem-2205_filltank_smart/)|液化水槽監控(Smart)|
+|[s-eq-dem-2206_factory_robot](scada/s-eq-dem-2206_factory_robot/)|工業手臂抓取物件|
 
 
 

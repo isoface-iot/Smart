@@ -34,8 +34,10 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 |[s-eq-dem-2044_restapidht](s-eq-dem-2044_restapidht/)|RestAPI 讀取溫濕度|
 |[s-eq-dem-2048_dlt645meter](s-eq-dem-2048_dlt645meter/)|智慧電錶採集|
 |[s-eq-dem-2049_dhtcontrol](s-eq-dem-2049_dhtcontrol/)|溫濕度採集與控制|
-|[s-eq-dem-2054_rfid_mqtt_relay](s-eq-dem-2054_rfid_mqtt_relay/)|RFID刷卡裝置|
-|[s-eq-dem-2055_translation_robotic_arm](s-eq-dem-2055_translation_robotic_arm/)|機械臂|
+|[s-eq-dem-2201_translation_robotic_arm](s-eq-dem-2201_translation_robotic_arm/)|機械臂|
+|[s-eq-dem-2202_esp32cam_slider](s-eq-dem-2202_esp32cam_slider/)|ESP32CAM軌道照相機|
+|[s-eq-dem-2203_esp32_slider](s-eq-dem-2203_esp32_slider/)|ESP32軌道照相機|
+|[s-eq-dem-2209_rfid_mqtt_relay](s-eq-dem-2209_rfid_mqtt_relay/)|RFID刷卡裝置|
 
 ## 注意事項：
 1. Smart智慧控制開發工具採用 Pascal 程序語言，開發物聯網相關運用。
