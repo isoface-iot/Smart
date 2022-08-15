@@ -102,7 +102,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 |[s-eq-dem-2204_filltank_openplc](scada/s-eq-dem-2204_filltank_openplc/)|液化水槽監控(OpenPLC)|
 |[s-eq-dem-2205_filltank_smart](scada/s-eq-dem-2205_filltank_smart/)|液化水槽監控(Smart)|
 |[s-eq-dem-2206_factory_robot](scada/s-eq-dem-2206_factory_robot/)|工業手臂抓取物件|
-
+|[s-eq-dem-2212_filltank_opcda](scada/s-eq-dem-2212_filltank_opcda/)|液化水槽監控(OPCDA)|
 
 
 ## 注意事項：

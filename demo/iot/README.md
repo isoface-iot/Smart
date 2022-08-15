@@ -25,7 +25,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 |[s-eq-dem-2013_mqttclient](s-eq-dem-2013_mqttclient/)| MQTT 控制元件使用|
 |[s-eq-dem-2014_mqttled](s-eq-dem-2014_mqttled/)|MQTT 控制 LED 燈|
 |[s-eq-dem-2015_mqttdht](s-eq-dem-2015_mqttdht/)| MQTT 讀取溫濕度|
-|[s-eq-dem-2016_opcdaled](s-eq-dem-2016_opcdaled/)| OPCDA 控制 LED 燈|
+|[s-eq-dem-2016_opcdaled](s-eq-dem-2017_opcdaled/)| OPCDA 控制 LED 燈|
 |[s-eq-dem-2017_opcdadht](s-eq-dem-2017_opcdadht/)| OPCDA 讀取溫濕度|
 |[s-eq-dem-2018_bluetoothscale](s-eq-dem-2018_bluetoothscale/)| 藍芽電子秤|
 |[s-eq-dem-2019_bluetoothled](s-eq-dem-2019_bluetoothled/)|藍芽控制 LED 燈|
@@ -37,7 +37,10 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 |[s-eq-dem-2201_translation_robotic_arm](s-eq-dem-2201_translation_robotic_arm/)|機械臂|
 |[s-eq-dem-2202_esp32cam_slider](s-eq-dem-2202_esp32cam_slider/)|ESP32CAM軌道照相機|
 |[s-eq-dem-2203_esp32_slider](s-eq-dem-2203_esp32_slider/)|ESP32軌道照相機|
+|[s-eq-dem-2208_modbusrtuelecmeter](s-eq-dem-2208_modbusrtuelecmeter/)|ModbusRTU 電錶數據採集|
 |[s-eq-dem-2209_rfid_mqtt_relay](s-eq-dem-2209_rfid_mqtt_relay/)|RFID刷卡裝置|
+|[s-eq-dem-2211_pms5003st_sensor](s-eq-dem-2211_pms5003st_sensor/)|PM2.5 感測器數據讀取|
+|[s-eq-dem-2213_comport_elecmeter](s-eq-dem-2213_comport_elecmeter/)|通訊埠電錶數據採集|
 
 ## 注意事項：
 1. Smart智慧控制開發工具採用 Pascal 程序語言，開發物聯網相關運用。
