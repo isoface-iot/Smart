@@ -39,7 +39,10 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 |[s-eq-dem-2201_translation_robotic_arm](iot/s-eq-dem-2201_translation_robotic_arm/)|機械臂|
 |[s-eq-dem-2202_esp32cam_slider](iot/s-eq-dem-2202_esp32cam_slider/)|ESP32CAM軌道照相機|
 |[s-eq-dem-2203_esp32_slider](iot/s-eq-dem-2203_esp32_slider/)|ESP32軌道照相機|
+|[s-eq-dem-2208_modbusrtuelecmeter](iot/s-eq-dem-2208_modbusrtuelecmeter/)|ModbusRTU 電錶數據採集|
 |[s-eq-dem-2209_rfid_mqtt_relay](iot/s-eq-dem-2209_rfid_mqtt_relay/)|RFID刷卡裝置|
+|[s-eq-dem-2211_pms5003st_sensor](iot/s-eq-dem-2211_pms5003st_sensor/)|PM2.5 感測器數據讀取|
+|[s-eq-dem-2213_comport_elecmeter](iot/s-eq-dem-2213_comport_elecmeter/)|通訊埠電錶數據採集|
 
 ## 媒體
 
