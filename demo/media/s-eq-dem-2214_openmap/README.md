@@ -7,7 +7,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > [https://www.facebook.com/groups/535849751457439](https://www.facebook.com/groups/535849751457439)
 
 
-手機 APK 開發工具 PinToo ，採用 openstreetmap 開放街圖，顯示效果不比 Google地圖差，不用申請 API、完全免費，輕鬆掌控 APK 在彈指之間。
+物聯網開發工具 Smart ，採用 openstreetmap 開放街圖，顯示效果不比 Google地圖差，不用申請 API、完全免費，輕鬆掌控 APK 在彈指之間。
 
 1. 使用GPS定位顯示地圖行進軌跡
 2. 地圖配合Web圖層顯示
