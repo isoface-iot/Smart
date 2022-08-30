@@ -60,6 +60,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 |[s-eq-dem-2046_vncview](media/s-eq-dem-2046_vncview/)| 遠端桌面控制伺服器、遠端桌面控制客戶端|
 |[s-eq-dem-2052_email](media/s-eq-dem-2052_email/)|郵件發送|
 |[s-eq-dem-2053_chatroom](media/s-eq-dem-2053_chatroom/)|網路聊天室|
+|[s-eq-dem-2214_oepnmap](media/s-eq-dem-2214_openmap/)|地圖定位展示|
 
 ## AI
 
