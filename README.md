@@ -13,7 +13,7 @@ Smart 是資料採集與監控系統。提供多層次開發框架，快速開�
 Smart 適用於自動化設備動態圖形顯示和即時資料掌控。Smart在各行業廣泛的應用，包括航太航空、軍工、汽車、農業、能源、電源管控、樓宇管理、一般製造工廠、礦山、食品和飲料生產、科研、以及教育。Smart綜合了SCADA、HMI、與動態儀表的各項優點，具有優良靈活的性能，更高的性價比。Smart即時線上程式設計能力和高速採集和記錄資料能力，是物聯網聰明的精靈。
 
 ![](images/301021282_3310052172565956_7285342602475083083_n.jpg)
- ## 範例目錄
+## 範例目錄
 
 範例目錄的說明如下：
 
@@ -57,19 +57,19 @@ Smart 適用於自動化設備動態圖形顯示和即時資料掌控。Smart在
 
 |目錄名稱|對應範例名稱|
 |-------|------------|
-|[s-eq-dem-2021_onlinedocument](media/s-eq-dem-2021_onlinedocument/)| 網路文件瀏覽|
-|[s-eq-dem-2022_videoplayer](media/s-eq-dem-2022_videoplayer)|視訊播放|
-|[s-eq-dem-2031_formtransfer](media/s-eq-dem-2031_formtransfer/)| 窗體相互傳值|
-|[s-eq-dem-2032_qrscan](media/s-eq-dem-2032_qrscan/)|二維碼掃瞄與二維碼產生|
-|[s-eq-dem-2034_ocr](meida/s-eq-dem-2034_ocr/)|OCR 識別|
-|[s-eq-dem-2036_networkcamera](media/s-eq-dem-2036_networkcamera/)|網路攝像機伺服器、網路攝像機客戶端|
-|[s-eq-dem-2038_videorecoder](media/s-eq-dem-2038_videorecoder/)|視訊錄影|
-|[s-eq-dem-2039_livepush](media/s-eq-dem-2039_livepush/)|視訊推流|
-|[s-eq-dem-2040_handwriting](media/s-eq-dem-2040_handwriting/)|智慧手寫板|
-|[s-eq-dem-2046_vncview](media/s-eq-dem-2046_vncview/)| 遠端桌面控制伺服器、遠端桌面控制客戶端|
-|[s-eq-dem-2052_email](media/s-eq-dem-2052_email/)|郵件發送|
-|[s-eq-dem-2053_chatroom](media/s-eq-dem-2053_chatroom/)|網路聊天室|
-|[s-eq-dem-2214_oepnmap](media/s-eq-dem-2214_openmap/)|地圖定位展示|
+|[s-eq-dem-2021_onlinedocument](demo/media/s-eq-dem-2021_onlinedocument/)| 網路文件瀏覽|
+|[s-eq-dem-2022_videoplayer](demo/media/s-eq-dem-2022_videoplayer)|視訊播放|
+|[s-eq-dem-2031_formtransfer](demo/media/s-eq-dem-2031_formtransfer/)| 窗體相互傳值|
+|[s-eq-dem-2032_qrscan](demo/media/s-eq-dem-2032_qrscan/)|二維碼掃瞄與二維碼產生|
+|[s-eq-dem-2034_ocr](demo/meida/s-eq-dem-2034_ocr/)|OCR 識別|
+|[s-eq-dem-2036_networkcamera](demo/media/s-eq-dem-2036_networkcamera/)|網路攝像機伺服器、網路攝像機客戶端|
+|[s-eq-dem-2038_videorecoder](demo/media/s-eq-dem-2038_videorecoder/)|視訊錄影|
+|[s-eq-dem-2039_livepush](demo/media/s-eq-dem-2039_livepush/)|視訊推流|
+|[s-eq-dem-2040_handwriting](demo/media/s-eq-dem-2040_handwriting/)|智慧手寫板|
+|[s-eq-dem-2046_vncview](demo/media/s-eq-dem-2046_vncview/)| 遠端桌面控制伺服器、遠端桌面控制客戶端|
+|[s-eq-dem-2052_email](demo/media/s-eq-dem-2052_email/)|郵件發送|
+|[s-eq-dem-2053_chatroom](demo/media/s-eq-dem-2053_chatroom/)|網路聊天室|
+|[s-eq-dem-2214_openmap](demo/media/s-eq-dem-2214_openmap/)|地圖定位展示|
 
 ### AI
 
