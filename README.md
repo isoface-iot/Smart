@@ -116,7 +116,7 @@ Smart 適用於自動化設備動態圖形顯示和即時資料掌控。Smart在
 |[s-eq-dem-2206_factory_robot](demo/scada/s-eq-dem-2206_factory_robot/)|工業手臂抓取物件|
 |[s-eq-dem-2212_filltank_opcda](demo/scada/s-eq-dem-2212_filltank_opcda/)|液化水槽監控(OPCDA)|
 
- * **Smart 簡介**：https://isoface.net/isoface/production/software/smart/smart
+* **Smart 簡介**：https://isoface.net/isoface/production/software/smart/smart
 * **Smart 下載**：[點選此處下載](https://github.com/isoface-iot/Smart/releases/latest)
 * **Smart 使用手冊**：https://isoface.net/isoface/doc/smart/main/
 * **Smart 快速上手**：https://isoface.net/isoface/study/quick-start/2022-05-28-03-08-29/smart
