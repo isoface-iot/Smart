@@ -14,6 +14,12 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 2. 面向資源，一目瞭然，具有自解釋性。
 3. 數據描述簡單，一般通過 json 或者 xml 做數據通訊。
 
+範例提供一個 RestAPI 服務端與客戶端， 客戶端向服務端發送請求，服務端根據發送的請求向資料庫伺服器發送查詢請求，講獲取的數據資訊以 JSON 格式返回。
+![](images/20220919174823.png)
+![](images/20220919174844.png)
+![](images/20220919174703.png)
+![](images/20220919174712.png)
+
 * **產品**：https://isoface.net/isoface/production/software/smart
 * **範例手冊**：https://isoface.net/isoface/doc/smart/demo/http-server/
 * **範例視訊**：https://isoface.net/isoface/component/k2/video-tutorial/smart/s-eq-dem-2029
