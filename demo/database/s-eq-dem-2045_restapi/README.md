@@ -8,6 +8,14 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 
 TARS 中包含了 RestAPI 功能，可以通過 HTTPURL 的形式去訪問來實現 TARS 的各個功能。
 
+TARS 中的 RestAPI 包含了資料庫連線讀寫的基礎功能，可通過 RestAPI 來發送相關指令，實現資料庫的讀寫功能。通過 RestAPI，TARS 可實現第三方管理系統的對接。
+
+範例搭建了一個基礎的 RestAPI 請求的客戶端，您可根據這個範例瞭解 Smart 中引用 TARS RestAPI 的方法。
+
+![](images/20220920163252.png)
+![](images/20220920162935.png)
+
+
 通過範例學習，可以掌握 TARS 中 RestAPI 的使用方法，並結合 Smart 實現訪問的相關功能。
 
 * **產品**：https://isoface.net/isoface/production/software/smart
