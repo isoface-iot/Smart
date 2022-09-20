@@ -18,6 +18,8 @@ DHT11 是 DHT 系列的一款應用廣泛的溫濕度感測器。在範例中，
 | 濕度測量範圍 | 0–100% RH   |
 | 濕度測量精度 | 2% RH       |
 
+![](images/20220920170049.png)
+
 通過範例學習，可以掌握ComPort控制元件的使用，並結合Arduino開發板通過通訊埠實現溫濕度感測器的數據讀取功能。
 
 * **產品**：https://isoface.net/isoface/production/software/smart
