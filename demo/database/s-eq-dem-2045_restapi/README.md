@@ -18,11 +18,13 @@ TARS 中的 RestAPI 包含了資料庫連線讀寫的基礎功能，可通過 Re
 
 通過範例學習，可以掌握 TARS 中 RestAPI 的使用方法，並結合 Smart 實現訪問的相關功能。
 
-* **產品**：https://isoface.net/isoface/production/software/smart
+* **Smart 簡介**：https://isoface.net/isoface/production/software/smart/smart
+* **Smart 下載**：[點選此處下載](https://github.com/isoface-iot/Smart/releases/latest)
+* **Smart 使用手冊**：https://isoface.net/isoface/doc/smart/main/
 * **範例手冊**：https://isoface.net/isoface/doc/smart/demo/restapi-tars/
 * **範例視訊**：https://isoface.net/isoface/component/k2/video-tutorial/smart/s-eq-dem-2045
-* **產品說明**：https://isoface.net/isoface/doc/smart/main/
-* **網址**：https://isoface.net/
+* **Smart 快速上手**：https://isoface.net/isoface/study/quick-start/2022-05-28-03-08-29/smart
+* **無需安裝，Smart線上試用**：https://isoface.net/isoface/support/trial/smart
 
 ## 注意事項：
 1. Smart 智慧控制開發工具採用 Pascal 程序語言，開發物聯網相關運用。

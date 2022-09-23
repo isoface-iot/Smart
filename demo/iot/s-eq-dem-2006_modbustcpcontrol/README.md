@@ -8,13 +8,19 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 
 範例實現 ModbusTCP 控制元件的使用。為連線 ModbusTCP 裝置除錯提供基礎。Modbus 是工業界廣泛使用的通訊協議，使用該控制元件可用於控制工業裝置，採集數據資訊等功能。在使用以下功能之前，需提前在計算機上安裝 Modbus Slave 或者其他 Modbus 模擬軟體，在模擬軟體上開啟 ModbusTCP，使計算機獲取裝置的 IP 地址。
 
+打開範例后，可在範例中模擬呼叫Modbus裝置，驗證讀取寫入操作是否可以正常使用。
+
+![](images/20220923173832.png)
+
 通過範例學習，可以掌握 Modbus 的基本通訊功能，並結合 ModbusTCP 控制元件進行模擬控制功能。
 
-* **產品**：https://isoface.net/isoface/production/software/smart
+* **Smart 簡介**：https://isoface.net/isoface/production/software/smart/smart
+* **Smart 下載**：[點選此處下載](https://github.com/isoface-iot/Smart/releases/latest)
+* **Smart 使用手冊**：https://isoface.net/isoface/doc/smart/main/
 * **範例手冊**：https://isoface.net/isoface/doc/smart/demo/modbustcp/
 * **範例視訊**：https://isoface.net/isoface/component/k2/video-tutorial/smart/s-eq-dem-2006
-* **產品說明**：https://isoface.net/isoface/doc/smart/main/
-* **網址**：https://isoface.net/
+* **Smart 快速上手**：https://isoface.net/isoface/study/quick-start/2022-05-28-03-08-29/smart
+* **無需安裝，Smart線上試用**：https://isoface.net/isoface/support/trial/smart
 
 ## 注意事項：
 1. Smart 智慧控制開發工具採用 Pascal 程序語言，開發物聯網相關運用。

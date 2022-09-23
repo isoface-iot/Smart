@@ -30,12 +30,14 @@ ECharts 能夠在 PC 端和移動裝置上流暢執行，相容目前絕大部�
 通過範例學習，可以學習在 Smart 中引入 ECharts 進行圖表展示。
 
 
-
-* **產品**：https://isoface.net/isoface/production/software/smart
+* **Smart 簡介**：https://isoface.net/isoface/production/software/smart/smart
+* **Smart 下載**：[點選此處下載](https://github.com/isoface-iot/Smart/releases/latest)
+* **Smart 使用手冊**：https://isoface.net/isoface/doc/smart/main/
 * **範例手冊**：https://isoface.net/isoface/doc/smart/demo/echarts/
 * **範例視訊**：https://isoface.net/isoface/component/k2/video-tutorial/smart/s-eq-dem-2025
-* **產品說明**：https://isoface.net/isoface/doc/smart/main/
-* **網址**：https://isoface.net/
+* **Smart 快速上手**：https://isoface.net/isoface/study/quick-start/2022-05-28-03-08-29/smart
+* **無需安裝，Smart線上試用**：https://isoface.net/isoface/support/trial/smart
+
 
 ## 注意事項：
 1. Smart 智慧控制開發工具採用 Pascal 程序語言，開發物聯網相關運用。
