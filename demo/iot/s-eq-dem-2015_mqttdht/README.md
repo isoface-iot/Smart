@@ -10,13 +10,17 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 
 TARS 中也提供了 MQTT 服務，使用 TARS 中的服務可以實現裝置之間的相互連線。在範例中 Arduino 開發板與 Ethernet W5100 網路擴充套件板，組裝方式與前述章節相同。溫濕度感測器 DHT22，負極接 Ethernet W5100 擴充套件板的 GND 針腳，正極接擴充套件板 5V 針腳，訊號線接擴充套件板 D8 針腳。
 
+![](images/20220924165455.png)
+
 通過範例學習，可以掌握 MQTTClient 控制元件的基本使用，並結合 Arduino 開發板通過 MQTT 進行溫濕度採集。
 
-* **產品**：https://isoface.net/isoface/production/software/smart
+* **Smart 簡介**：https://isoface.net/isoface/production/software/smart/smart
+* **Smart 下載**：[點選此處下載](https://github.com/isoface-iot/Smart/releases/latest)
+* **Smart 使用手冊**：https://isoface.net/isoface/doc/smart/main/
 * **範例手冊**：https://isoface.net/isoface/doc/smart/demo/mqtt-dht/
 * **範例視訊**：https://isoface.net/isoface/component/k2/video-tutorial/smart/s-eq-dem-2015
-* **產品說明**：https://isoface.net/isoface/doc/smart/main/
-* **網址**：https://isoface.net/
+* **Smart 快速上手**：https://isoface.net/isoface/study/quick-start/2022-05-28-03-08-29/smart
+* **無需安裝，Smart線上試用**：https://isoface.net/isoface/support/trial/smart
 
 ## 注意事項：
 1. Smart 智慧控制開發工具採用 Pascal 程序語言，開發物聯網相關運用。
