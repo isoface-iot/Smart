@@ -10,11 +10,15 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 
 範例使用到的電子秤為耀華 XK3190-A12+E，該型號的電子秤可提供藍芽連線的支援。在使用範例前，請先確認計算機是否支援藍芽，是否已與電子秤進行藍芽配對連線，否則會導致範例執行失敗。
 
-* **產品**：https://isoface.net/isoface/production/software/smart
+![](images/20220924171343.png)
+
+* **Smart 簡介**：https://isoface.net/isoface/production/software/smart/smart
+* **Smart 下載**：[點選此處下載](https://github.com/isoface-iot/Smart/releases/latest)
+* **Smart 使用手冊**：https://isoface.net/isoface/doc/smart/main/
 * **範例手冊**：https://isoface.net/isoface/doc/smart/demo/ble-scale/
 * **範例視訊**：https://isoface.net/isoface/component/k2/video-tutorial/smart/s-eq-dem-2018
-* **產品說明**：https://isoface.net/isoface/doc/smart/main/
-* **網址**：https://isoface.net/
+* **Smart 快速上手**：https://isoface.net/isoface/study/quick-start/2022-05-28-03-08-29/smart
+* **無需安裝，Smart線上試用**：https://isoface.net/isoface/support/trial/smart
 
 ## 注意事項：
 1. Smart 智慧控制開發工具採用 Pascal 程序語言，開發物聯網相關運用。
