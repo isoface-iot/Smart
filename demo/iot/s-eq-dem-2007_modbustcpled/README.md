@@ -12,13 +12,17 @@ PC 裝置 (ModbusTCP 主機) 通過 ModbusTCP 通訊協議傳送指令給指定�
 
 範例中 LED 燈正極(針腳較長的一端)連線到電阻，再連線到 Ethernet W5100 的 D8 針腳，LED 燈的負極連線到擴充套件板的 GND 針腳。
 
+![](images/20220924154841.png)
+
 通過範例學習，可以掌握 ModbusTCPWriteChannel、ModbusTCPReadChannel 元件基本屬性配置，向 Modbus 裝置寫入數據的使用，並結合 Arduino 開發板進行 LED 燈的控制功能。
 
-* **產品**：https://isoface.net/isoface/production/software/smart
+* **Smart 簡介**：https://isoface.net/isoface/production/software/smart/smart
+* **Smart 下載**：[點選此處下載](https://github.com/isoface-iot/Smart/releases/latest)
+* **Smart 使用手冊**：https://isoface.net/isoface/doc/smart/main/
 * **範例手冊**：https://isoface.net/isoface/doc/smart/demo/modbustcp-led/
 * **範例視訊**：https://isoface.net/isoface/component/k2/video-tutorial/smart/s-eq-dem-2007
-* **產品說明**：https://isoface.net/isoface/doc/smart/main/
-* **網址**：https://isoface.net/
+* **Smart 快速上手**：https://isoface.net/isoface/study/quick-start/2022-05-28-03-08-29/smart
+* **無需安裝，Smart線上試用**：https://isoface.net/isoface/support/trial/smart
 
 ## 注意事項：
 1. Smart 智慧控制開發工具採用 Pascal 程序語言，開發物聯網相關運用。
