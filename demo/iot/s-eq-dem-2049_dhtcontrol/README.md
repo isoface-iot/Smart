@@ -10,13 +10,17 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 
 範例除使用常規的 Arduino 硬體外，還需要使用到用於進行直播錄像的攝像機，該攝像機錄製的視訊將以視訊直播流的形式發送至指定的 RTMP 伺服器中，範例從該地址中接收視訊流播放視訊錄像。在使用該範例前需要讀者對視訊直播的流程有一定的瞭解，並使用自行搭建的流媒體伺服器或者第三方的視訊直播服務進行推流直播。自行搭建的流媒體伺服器可使用[SRS](https://github.com/ossrs/srs)。
 
+![](images/20220926173002.jpg)
+
 通過範例學習，可以掌握 ModbusTCP 的基本通訊原理，實現 Arduino 裝置的綜合控制。
 
-* **產品**：https://isoface.net/isoface/production/software/smart
+* **Smart 簡介**：https://isoface.net/isoface/production/software/smart/smart
+* **Smart 下載**：[點選此處下載](https://github.com/isoface-iot/Smart/releases/latest)
+* **Smart 使用手冊**：https://isoface.net/isoface/doc/smart/main/
 * **範例手冊**：https://isoface.net/isoface/doc/smart/demo/dht-control/
 * **範例視訊**：https://isoface.net/isoface/component/k2/video-tutorial/smart/s-eq-dem-2049
-* **產品說明**：https://isoface.net/isoface/doc/smart/main/
-* **網址**：https://isoface.net/
+* **Smart 快速上手**：https://isoface.net/isoface/study/quick-start/2022-05-28-03-08-29/smart
+* **無需安裝，Smart線上試用**：https://isoface.net/isoface/support/trial/smart
 
 ## 注意事項：
 1. Smart 智慧控制開發工具採用 Pascal 程序語言，開發物聯網相關運用。
