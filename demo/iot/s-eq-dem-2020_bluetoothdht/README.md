@@ -14,13 +14,17 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 
 在硬體連線完成後，將 Arduino 連線電源，需要先將 PC 端與 HC-06 的藍芽配對，需使用支援藍芽功能的計算機（如不支援藍芽的計算機也可以使用 USB 藍芽適配器等外接拓展裝置使之支援藍芽功能），打開藍芽選項，可搜索到 HC-06 字樣的藍芽裝置，預設的配對 PIN 碼為 1234。範例使用的 Arduino 程式使用到的藍芽裝置庫的地址：[http://drho.club/2018/06/arduino-bluetooth-mobile-phone01/](http://drho.club/2018/06/arduino-bluetooth-mobile-phone01/)，下載該庫檔案並將其新增至 Arduino 程式庫。
 
+![](images/20220926164532.png)
+
 通過範例學習，可以掌握藍芽的基本通訊原理，並結合 Arduino 開發板實現溫濕度模組的數據採集功能。
 
-* **產品**：https://isoface.net/isoface/production/software/smart
+* **Smart 簡介**：https://isoface.net/isoface/production/software/smart/smart
+* **Smart 下載**：[點選此處下載](https://github.com/isoface-iot/Smart/releases/latest)
+* **Smart 使用手冊**：https://isoface.net/isoface/doc/smart/main/
 * **範例手冊**：https://isoface.net/isoface/doc/smart/demo/ble-dht/
 * **範例視訊**：https://isoface.net/isoface/component/k2/video-tutorial/smart/s-eq-dem-2020
-* **產品說明**：https://isoface.net/isoface/doc/smart/main/
-* **網址**：https://isoface.net/
+* **Smart 快速上手**：https://isoface.net/isoface/study/quick-start/2022-05-28-03-08-29/smart
+* **無需安裝，Smart線上試用**：https://isoface.net/isoface/support/trial/smart
 
 ## 注意事項：
 1. Smart 智慧控制開發工具採用 Pascal 程序語言，開發物聯網相關運用。
