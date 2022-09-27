@@ -21,6 +21,8 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 |3|滑軌軌道套裝|1|
 |4|杜邦線|若干|
 
+![](images/20220927154157.png)
+
 * **Smart 簡介**：https://isoface.net/isoface/production/software/smart/smart
 * **Smart 下載**：[點選此處下載](https://github.com/isoface-iot/Smart/releases/latest)
 * **Smart 使用手冊**：https://isoface.net/isoface/doc/smart/main/
