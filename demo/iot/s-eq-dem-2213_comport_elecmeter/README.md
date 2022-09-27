@@ -15,6 +15,8 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 
 目前市面上使用的絕大多數數字液晶顯示屏電能表均有 RS485 的通訊介面，除了用於連線電路的接線柱外，還包含了 RS485 介面的接線柱，用於與計算機進行連線。範例中使用的電能表通過 RS485 通訊介面與計算機連線，計算機通過通訊埠向該電能表發送讀取電能數據的Modbus指令，電能表對應返回數據，計算機進行解析后顯示讀取的結果數值。我們可以將讀取到的數值寫入至資料庫中實現能源分析的功能。
 
+![](images/20220927160511.png)
+
 * **Smart 簡介**：https://isoface.net/isoface/production/software/smart/smart
 * **Smart 下載**：[點選此處下載](https://github.com/isoface-iot/Smart/releases/latest)
 * **Smart 使用手冊**：https://isoface.net/isoface/doc/smart/main/
