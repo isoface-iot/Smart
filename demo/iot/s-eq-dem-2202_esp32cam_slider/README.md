@@ -21,6 +21,8 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 1. 開發板的硬體連線圖在 `Fritzing` 資料夾中，可使用 Fritzing 打開以檢視。
 2. 需使用的程式碼使用 Arduino 來展示。請下載對應的 Arduino IDE 來進行燒錄。
 
+![](images/20220927152731.png)
+
 * **Smart 簡介**：https://isoface.net/isoface/production/software/smart/smart
 * **Smart 下載**：[點選此處下載](https://github.com/isoface-iot/Smart/releases/latest)
 * **Smart 使用手冊**：https://isoface.net/isoface/doc/smart/main/
