@@ -24,6 +24,12 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 |[s-eq-dem-2053_chatroom](s-eq-dem-2053_chatroom/)|網路聊天室|
 |[s-eq-dem-2214_oepnmap](s-eq-dem-2214_openmap/)|地圖定位展示|
 
+* **Smart 簡介**：https://isoface.net/isoface/production/software/smart/smart
+* **Smart 下載**：[點選此處下載](https://github.com/isoface-iot/Smart/releases/latest)
+* **Smart 使用手冊**：https://isoface.net/isoface/doc/smart/main/
+* **Smart 快速上手**：https://isoface.net/isoface/study/quick-start/2022-05-28-03-08-29/smart
+* **無需安裝，Smart線上試用**：https://isoface.net/isoface/support/trial/smart
+
 
 ## 注意事項：
 1. Smart智慧控制開發工具採用 Pascal 程序語言，開發物聯網相關運用。
