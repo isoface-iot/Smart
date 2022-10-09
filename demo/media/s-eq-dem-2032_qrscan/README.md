@@ -2,9 +2,13 @@
 
 Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，與 ERP 企業經營管理系統協調互動。社區版功能無差別，全部免費。
 
-> **請加入【FaceBook社團】掌握產品最新動態**
+> **加入 Facebook 社團**
 >
-> [https://www.facebook.com/groups/535849751457439](https://www.facebook.com/groups/535849751457439)
+> [https://www.facebook.com/groups/isoface/](https://www.facebook.com/groups/isoface/)
+> 
+> **點讚追蹤 Facebook 粉絲專頁**
+> 
+> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
 
 範例通過攝像頭掃瞄識別條形碼與二維碼，以及根據內容產生對應的二維碼。範例需要使用到攝像機進行二維碼的掃瞄，使用該範例的計算機需配備攝像機功能。
 

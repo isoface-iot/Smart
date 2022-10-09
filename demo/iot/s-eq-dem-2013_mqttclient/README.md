@@ -2,9 +2,13 @@
 
 Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，與 ERP 企業經營管理系統協調互動。社區版功能無差別，全部免費。
 
-> **請加入【FaceBook社團】掌握產品最新動態**
+> **加入 Facebook 社團**
 >
-> [https://www.facebook.com/groups/535849751457439](https://www.facebook.com/groups/535849751457439)
+> [https://www.facebook.com/groups/isoface/](https://www.facebook.com/groups/isoface/)
+> 
+> **點讚追蹤 Facebook 粉絲專頁**
+> 
+> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
 
 學習使用 MQTTClient 控制元件，瞭解 MQTT 通訊協議的工作模式。通過 Smart 智慧控制平臺，實現 MQTTClient 控制元件的使用，學會使用該控制元件后可進行 MQTT 協議相關的物聯網開發。使用該控制元件需安裝 MQTT 服務端獲取 MQTT 伺服器的IP地址與埠號使用者名稱，密碼，TARS 提供 MQTT 伺服器的功能。
 

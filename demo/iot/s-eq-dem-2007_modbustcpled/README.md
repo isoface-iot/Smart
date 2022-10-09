@@ -2,9 +2,13 @@
 
 Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，與 ERP 企業經營管理系統協調互動。社區版功能無差別，全部免費。
 
-> **請加入【FaceBook社團】掌握產品最新動態**
+> **加入 Facebook 社團**
 >
-> [https://www.facebook.com/groups/535849751457439](https://www.facebook.com/groups/535849751457439)
+> [https://www.facebook.com/groups/isoface/](https://www.facebook.com/groups/isoface/)
+> 
+> **點讚追蹤 Facebook 粉絲專頁**
+> 
+> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
 
 採用 ModbusTCP 通訊協議，控制駁接在 Arduino 上的 LED 燈。ModbusTCP 使用電腦來指定特定 IP 地址下的 ModbusTCP 從機，從而控制該從機。範例中使用 Arduino 開發板與 Ethernet  W5100 網路擴充套件板，組合稱 ModbusTCP 從機。其工作方式如下：
 

@@ -2,9 +2,13 @@
 
 Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，與 ERP 企業經營管理系統協調互動。社區版功能無差別，全部免費。
 
-> **請加入【FaceBook社團】掌握產品最新動態**
+> **加入 Facebook 社團**
 >
-> [https://www.facebook.com/groups/535849751457439](https://www.facebook.com/groups/535849751457439)
+> [https://www.facebook.com/groups/isoface/](https://www.facebook.com/groups/isoface/)
+> 
+> **點讚追蹤 Facebook 粉絲專頁**
+> 
+> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
 
 範例採用通訊埠通訊協議，控制通訊埠印表機進行列印輸出。通過向通訊埠輸入特定列印指令的字元，印表機對指令進行解析並列印出所需的內容。目前市面上的一些帶有通訊埠的標籤印表機使用的是 TSPL(TSC 標籤印表機的通訊埠列印程式語言)，通過通訊埠輸入的內容需按照 TSPL 的規範進行。
 

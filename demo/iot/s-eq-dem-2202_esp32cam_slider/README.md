@@ -2,9 +2,13 @@
 
 Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，與 ERP 企業經營管理系統協調互動。社區版功能無差別，全部免費。
 
-> **請加入【FaceBook社團】掌握產品最新動態**
+> **加入 Facebook 社團**
 >
-> [https://www.facebook.com/groups/535849751457439](https://www.facebook.com/groups/535849751457439)
+> [https://www.facebook.com/groups/isoface/](https://www.facebook.com/groups/isoface/)
+> 
+> **點讚追蹤 Facebook 粉絲專頁**
+> 
+> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
 
 採用 ESP32CAM 作為網路攝像頭，向 Smart 推送視訊流，Smart 可通過 WebSocket 向 ESP32 發送步進電機移動的指令，實現滑軌的移動功能。同時 Smart 也可接收視訊流，針對視訊流實現視訊的錄製與視訊截圖的功能。
 

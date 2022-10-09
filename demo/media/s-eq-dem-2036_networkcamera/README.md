@@ -2,9 +2,13 @@
 
 Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，與 ERP 企業經營管理系統協調互動。社區版功能無差別，全部免費。
 
-> **請加入【FaceBook社團】掌握產品最新動態**
+> **加入 Facebook 社團**
 >
-> [https://www.facebook.com/groups/535849751457439](https://www.facebook.com/groups/535849751457439)
+> [https://www.facebook.com/groups/isoface/](https://www.facebook.com/groups/isoface/)
+> 
+> **點讚追蹤 Facebook 粉絲專頁**
+> 
+> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
 
 利用 Smart 軟體開發工具，將連接在 Windows 電腦上的各類攝相頭，設計成網路攝像頭。使用此攝像頭進行視訊錄製、遠端視訊監控、提供遠端視訊瀏覽服務。學習該範例，可以掌握攝像頭伺服器錄製視訊的方式，並通過客戶端進行遠端訪問。
 

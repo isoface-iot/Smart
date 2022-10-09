@@ -2,9 +2,13 @@
 
 Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，與 ERP 企業經營管理系統協調互動。社區版功能無差別，全部免費。
 
-> **請加入【FaceBook社團】掌握產品最新動態**
+> **加入 Facebook 社團**
 >
-> [https://www.facebook.com/groups/535849751457439](https://www.facebook.com/groups/535849751457439)
+> [https://www.facebook.com/groups/isoface/](https://www.facebook.com/groups/isoface/)
+> 
+> **點讚追蹤 Facebook 粉絲專頁**
+> 
+> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
 
 採用 OPC 通訊協議，讀取連線在 Arduino 上的 DHT22 溫濕度感測器數據。OPC 是標準的工業通訊界面，根據微軟的 OLE、COM、DCOM 標準制定，它解決的是工業裝置互通性的問題，讓裝置資料的存取不再受限於硬體製造商。OPC 依據用途可分成 OPC 服務端（Server）與 OPC 使用者端（Client）兩部分。OPC Server 與 HMI/SCADA 軟體進行通訊，協議 OPC DA (資料存取)，通過 COM/DCOM 技術達成工業自動化數據獲取的架構，OPC Server 提供了許多的方法，Client 端通過這些方法可以獲取與 OPC Server 相連的硬體的數據資訊，而不需要去了解硬體的數據獲取方式。開發者可以通過編寫一套程式碼來實現操作不同的硬體。
 
