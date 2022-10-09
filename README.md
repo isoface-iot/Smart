@@ -1,9 +1,13 @@
 # Smart 是 Windows 平臺，物聯網軟體的開發工具
 Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，與 ERP 企業經營管理系統協調互動。社區版功能無差別，全部免費。
 
-> **請加入【FaceBook社團】掌握產品最新動態**
+> **加入 Facebook 社團**
 >
-> [https://www.facebook.com/groups/535849751457439](https://www.facebook.com/groups/535849751457439)
+> [https://www.facebook.com/groups/isoface/](https://www.facebook.com/groups/isoface/)
+> 
+> **點讚追蹤 Facebook 粉絲專頁**
+> 
+> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
 
 Smart 是資料採集與監控系統。提供多層次開發框架，快速開發企業管理系統，只要有網路，無論何時、何地，都可以自行開發、快速的工作。從系統設計、雛型設計到系統開發，最後到版本管理與佈署一氣呵成，顛覆軟體設計工作模式，並提供全新服務。Smart專為Windows平臺設計的圖像化編程工具。以您為中心，量身打造Smart各種商業運用與物聯網的整合。無論在工廠監控、ERP、電子商務…，就讓Smart滿足您的想像。
 
