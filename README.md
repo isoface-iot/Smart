@@ -65,7 +65,7 @@ Smart 適用於自動化設備動態圖形顯示和即時資料掌控。Smart在
 |[s-eq-dem-2022_videoplayer](demo/media/s-eq-dem-2022_videoplayer)|視訊播放|
 |[s-eq-dem-2031_formtransfer](demo/media/s-eq-dem-2031_formtransfer/)| 窗體相互傳值|
 |[s-eq-dem-2032_qrscan](demo/media/s-eq-dem-2032_qrscan/)|二維碼掃瞄與二維碼產生|
-|[s-eq-dem-2034_ocr](demo/meida/s-eq-dem-2034_ocr/)|OCR 識別|
+|[s-eq-dem-2034_ocr](demo/media/s-eq-dem-2034_ocr/)|OCR 識別|
 |[s-eq-dem-2036_networkcamera](demo/media/s-eq-dem-2036_networkcamera/)|網路攝像機伺服器、網路攝像機客戶端|
 |[s-eq-dem-2038_videorecoder](demo/media/s-eq-dem-2038_videorecoder/)|視訊錄影|
 |[s-eq-dem-2039_livepush](demo/media/s-eq-dem-2039_livepush/)|視訊推流|
