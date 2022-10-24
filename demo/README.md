@@ -56,7 +56,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 |[s-eq-dem-2022_videoplayer](media/s-eq-dem-2022_videoplayer)|視訊播放|
 |[s-eq-dem-2031_formtransfer](media/s-eq-dem-2031_formtransfer/)| 窗體相互傳值|
 |[s-eq-dem-2032_qrscan](media/s-eq-dem-2032_qrscan/)|二維碼掃瞄與二維碼產生|
-|[s-eq-dem-2034_ocr](meida/s-eq-dem-2034_ocr/)|OCR 識別|
+|[s-eq-dem-2034_ocr](media/s-eq-dem-2034_ocr/)|OCR 識別|
 |[s-eq-dem-2036_networkcamera](media/s-eq-dem-2036_networkcamera/)|網路攝像機伺服器、網路攝像機客戶端|
 |[s-eq-dem-2038_videorecoder](media/s-eq-dem-2038_videorecoder/)|視訊錄影|
 |[s-eq-dem-2039_livepush](media/s-eq-dem-2039_livepush/)|視訊推流|
