@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 範例使用視訊播放元件，實現視訊播放的功能。支援播放的視訊型別為本地視訊或線上視訊，或者直播視訊流。
 

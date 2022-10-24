@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 範例採用 RestAPI 通訊，來讀取連線到 NodeMCU 的 DHT22 溫濕度感測器的數據。 NodeMCU 是以 ESP8266(ESP12) 晶片為基礎，包含了 WiFi，GPIO，PWM，ADC，I2C 等功能的主控板，執行效率高，非常適合物聯網應用開發，因為它內建了WiFi功能，與 Arduino 相容，Arduino 中可用的感測器基本都可用於 NodeMCU。範例中使用的 DHT22 感測器正極（長腳）連線接至 NodeMCU Vin 針腳，負極連線至 NodeMCU GND 針腳，訊號針腳連線至 NodeMCU D5 針腳。
 

@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 通過 ModbusTCP 協議，連線至 ESP32 串接的 PMS5003ST PM2.5 感測器，讀取感測器的數據，並存入 ESP32 的 Modbus 裝置中 ，Smart 通過裝置的連線獲取感測器的數據資訊，從而實現 PM2.5 數據的讀取。
 

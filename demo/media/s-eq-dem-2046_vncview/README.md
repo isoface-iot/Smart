@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 採用遠端桌面連線的協議，來作為被控制的裝置。接收控制端的資訊執行，實現遠端桌面的效果。
 

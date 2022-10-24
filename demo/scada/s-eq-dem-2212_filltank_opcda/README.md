@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 Smart 可藉由 OPCDA Server，通過 Factory IO 實現對液化水槽場景的監控與控制功能。
 

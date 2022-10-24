@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 採用 ModbusTCP 通訊協議，控制駁接在 Arduino 上的 LED 燈。ModbusTCP 使用電腦來指定特定 IP 地址下的 ModbusTCP 從機，從而控制該從機。範例中使用 Arduino 開發板與 Ethernet  W5100 網路擴充套件板，組合稱 ModbusTCP 從機。其工作方式如下：
 

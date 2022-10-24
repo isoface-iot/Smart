@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 範例採用 ModbusRTU 通訊協議，控制駁接在 Arduino 上的 LED 燈。ModbusRTU 傳輸方式為 1 個主機對應多個從機，此時使用從機的從機號來做識別，如果主機傳輸的從機號對應到該從機的號碼，如果格式正確該從機會作迴應。因此在 Modbus 傳輸中，每個從機都是被動的，在執行過程中會不斷監聽是否有收到請求。範例中的 Arduino ModbusRTU 設定為從機，等待主機發出指令進行各種控制活動。每個從機都有固定的保持暫存器的地址，需參照規範來進行存取。範例中也設定從機號與控制參數的地址。
 

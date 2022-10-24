@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 範例實現 ModbusRTU 控制元件的使用。為使用 ModbusRTU 協議進行通訊的裝置除錯提供基礎。Modbus 是工業界廣泛使用的通訊協議，使用控制元件可用於控制工業裝置，採集數據資訊等功能。在使用以下功能之前，需提前在 PC 裝置上安裝 Modbus Slave 或者其他 Modbus 模擬軟體，開啟 ModbusRTU 協議，並使用虛擬通訊埠的軟體（比如 Virtual Serial Port Driver 等）建立虛擬通訊埠用於除錯。
 

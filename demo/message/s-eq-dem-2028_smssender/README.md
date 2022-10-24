@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 範例通過對接阿里簡訊平臺，填寫對應的簡訊模板以進行簡訊發送的功能。在使用該範例前，需開通[阿里云簡訊服務](https://www.aliyun.com/product/sms)，獲取 AccessKeyId、AccessKeySecret。並根據[阿里云簡訊服務文件](https://help.aliyun.com/document_detail/55288.html)進行簡訊模板的建立。
 

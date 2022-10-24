@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 圖表展示功能可用於顯示統計圖表，可根據需求自行選定圖表的顯示格式。該功能需配置 Smart 中的帳套設定使之能訪問 TARS。範例使用的是構造的模擬數據，無須使用特定的資料庫，任意資料庫均可使用。
 

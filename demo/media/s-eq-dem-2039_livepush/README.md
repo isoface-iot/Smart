@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 使用 Windows 桌面軟件開發工具 Smart，快速開發，馬上使用，簡單高效的即時視訊直播伺服器，支援 RTMP 即時串流服務。使用方便無門檻，提供完整的概念和統一的設計模式，實現高效率的串流服務，個人也能快速提供全方位的直播服務，包括企業安保、工廠監控、直播企劃、直播宣傳、短影音製作，平臺同步直播串流技術。客戶群涵蓋企業、工廠、遊戲、電商、品牌、快速消費品、政府單位，提供一條龍式的服務。
 

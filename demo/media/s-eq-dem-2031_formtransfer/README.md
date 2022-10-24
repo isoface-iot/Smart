@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 範例通過 Smart 智慧控制平臺，構建窗體之間可相互進行值互傳以及控制元件控制的功能。點選窗體中的按鈕，打開另外一個窗體並將源窗體中的數據傳遞給另外一個窗體。
 

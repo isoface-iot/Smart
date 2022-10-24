@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 範例採用藍芽通訊協議，讀取駁接在 Arduino 上的溫濕度感測器的數據。HC-06 採用 BC417143 晶片，支援藍芽 2.1+EDR 標準，HC-06 的主控端或者從端模式是在出廠前就設定好的不能更改，通常能夠買到的 HC-06 均為從端模式。
 

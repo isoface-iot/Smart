@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 採用 ESP32CAM 作為網路攝像頭，向 Smart 推送視訊流，Smart 可通過 WebSocket 向 ESP32 發送步進電機移動的指令，實現滑軌的移動功能。同時 Smart 也可接收視訊流，針對視訊流實現視訊的錄製與視訊截圖的功能。
 

@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 範例通過 WebAPI 的方式，進行圖片的識別並回傳識別結果的資訊。範例接入的是百度 OCR 的 API，目前該範例支援通用文字識別，車牌識別以及車型識別。在使用該功能前需要獲取百度智慧云 OCR 識別 API Key 與 Secret Key。
 

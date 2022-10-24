@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 範例採用通訊埠通訊協議，控制駁接在 PC 裝置上的電子秤。PC 端發送讀取指令，電子秤返回稱重重量的資訊；PC 端發送去皮與置零的指令，電子秤端執行相應的操作。電子秤是工業生產過程中經常使用到的裝置，現如今大部分近期生產的工業用電子秤都已經預留了通訊埠通訊的介面。在本範例中使用的電子秤也具有該功能。
 

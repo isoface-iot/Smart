@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 SVG是一種可縮放向量圖形，其使用 XML 來描述形狀特徵，關於 SVG 的說明等資訊可參[https://developer.mozilla.org/zh-CN/docs/Web/SVG](https://developer.mozilla.org/zh-CN/docs/Web/SVG) 。由於其向量圖的特性，在進行編輯縮放等相關操作后，圖形不失真，可廣泛用於圖形展示的場合。組態界面由於其圖形的特性，非常適合使用 SVG 來展示。
 

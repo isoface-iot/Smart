@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 範例使用 ModbusTCP 通訊協議，讀取連線至 Arduino 的溫濕度感測器數據，同時可通過 ModbusTCP 來控制 LED 燈以及繼電器開關。可通過視訊直播流檢視正在播放的裝置執行情況。
 

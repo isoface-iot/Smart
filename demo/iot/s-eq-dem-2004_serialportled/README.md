@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 使用Smart智慧控制平臺，通過通訊埠控制連線到 Arduino 的 LED。當從通訊埠輸出高電平時，開啟 Arduino 開發板上的 LED ，當通訊埠輸出低位電平時，關閉 Arduino 開發板上的 LED。
 

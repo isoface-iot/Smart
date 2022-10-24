@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 
 物聯網開發工具 Smart ，採用 openstreetmap 開放街圖，顯示效果不比 Google地圖差，不用申請 API、完全免費，輕鬆掌控 APK 在彈指之間。

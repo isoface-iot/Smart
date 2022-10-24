@@ -8,7 +8,7 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 範例採用 RS485 介面，通過 ModbusRTU 通訊協議，讀取計數器數據並控制數據顯示。使用 Modbus 協議進行計數器數值的讀取，並且寫入數值 0 以達到清零的效果。
 
