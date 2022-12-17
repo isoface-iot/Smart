@@ -56,6 +56,7 @@ Smart 適用於自動化設備動態圖形顯示和即時資料掌控。Smart在
 |[s-eq-dem-2209_rfid_mqtt_relay](demo/iot/s-eq-dem-2209_rfid_mqtt_relay/)|RFID刷卡裝置|
 |[s-eq-dem-2211_pms5003st_sensor](demo/iot/s-eq-dem-2211_pms5003st_sensor/)|PM2.5 感測器數據讀取|
 |[s-eq-dem-2213_comport_elecmeter](demo/iot/s-eq-dem-2213_comport_elecmeter/)|通訊埠電錶數據採集|
+|[s-eq-dem-2215_ryg_light](demo/iot/s-eq-dem-2215_ryg_light/)|三色聲光報警器控制|
 
 ### 媒體
 
