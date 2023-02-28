@@ -124,7 +124,7 @@ Smart 適用於自動化設備動態圖形顯示和即時資料掌控。Smart在
 * **Smart 簡介**：https://isoface.net/isoface/production/software/smart/smart
 * **Smart 下載**：[點選此處下載](https://github.com/isoface-iot/Smart/releases/latest)
 * **Smart 使用手冊**：https://isoface.net/isoface/doc/smart/main/
-* **Smart 快速上手**：https://isoface.net/isoface/study/quick-start/2022-05-28-03-08-29/smart
+* **Smart 快速上手**：https://isoface.net/isoface/study/quick-start/software/smart
 * **無需安裝，Smart線上試用**：https://isoface.net/isoface/support/trial/smart
 
 ## 無需安裝，線上試用
