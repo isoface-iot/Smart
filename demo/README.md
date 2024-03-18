@@ -113,6 +113,13 @@ Smart 智慧控制平臺，實現集中監控、資訊共用、智慧控制，�
 |[s-eq-dem-2206_factory_robot](scada/s-eq-dem-2206_factory_robot/)|工業手臂抓取物件|
 |[s-eq-dem-2212_filltank_opcda](scada/s-eq-dem-2212_filltank_opcda/)|液化水槽監控(OPCDA)|
 
+## 數控中心
+
+|目錄名稱|對應範例名稱|
+|-------|------------|
+|[large-screen](examples/large-screen/)|戰情指揮系統|
+|[personnel-and-vehicle-positioning](examples/personnel-and-vehicle-positioning/)|人車定位系統|
+
 * **Smart 簡介**：https://isoface.net/isoface/production/software/smart/smart
 * **Smart 下載**：[點選此處下載](https://github.com/isoface-iot/Smart/releases/latest)
 * **Smart 使用手冊**：https://isoface.net/isoface/doc/smart/main/
